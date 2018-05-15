@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "447869742983",
+    "firebase_url": "https://giftler-d9f6f.firebaseio.com",
+    "project_id": "giftler-d9f6f",
+    "storage_bucket": "giftler-d9f6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447869742983:android:eca4db03c9dbad9c",
+        "android_client_info": {
+          "package_name": "com.ladeezfirstmedia.giftler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447869742983-u3p0emtj1qpfp3rc72tvo2l26b9n63l9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5f_BlvBRJs7VeYrWBpQdUPnCSqBCtt_c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
